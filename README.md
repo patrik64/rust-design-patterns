@@ -6,6 +6,6 @@ to run:
 
 ```
 cd behavioral
-cd 22-visitor
+cd visitor-22
 cargo run
 ```
