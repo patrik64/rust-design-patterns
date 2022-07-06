@@ -1,1 +1,0 @@
-/home/grunph/sources/rust/rust-design-patterns/behavioral/state-19/target/debug/state-19: /home/grunph/sources/rust/rust-design-patterns/behavioral/state-19/src/blog.rs /home/grunph/sources/rust/rust-design-patterns/behavioral/state-19/src/main.rs

@@ -1,1 +1,0 @@
-/home/grunph/sources/rust/rust-design-patterns/creational/abstract-factory-02/target/debug/abstract-factory-02: /home/grunph/sources/rust/rust-design-patterns/creational/abstract-factory-02/src/main.rs
