@@ -1,6 +1,6 @@
 # rust-design-patterns
 
-examples from a fantastic [refactoring guru](https://refactoring.guru/design-patterns) website
+collection of design pattern examples in Rust as proposed by the [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns) book
 
 to run:
 
