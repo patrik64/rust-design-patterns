@@ -1,6 +1,8 @@
 # rust-design-patterns
 
-collection of design pattern examples in Rust
+collection of design pattern examples in Rust 
+
+
 to run:
 
 ```
