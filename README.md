@@ -1,7 +1,6 @@
 # rust-design-patterns
 
-collection of design pattern examples in Rust as proposed by the [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns) book
-
+collection of design pattern examples in Rust
 to run:
 
 ```
